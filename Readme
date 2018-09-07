@@ -1,0 +1,3 @@
+first build the project using Maven : mvn clean install
+'sample code' file contains the C- code that needs to be parse.
+run the 'main()' method in 'Parser' class to parse the sample code.
